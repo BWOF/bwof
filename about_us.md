@@ -1,8 +1,8 @@
 ---
 layout:         default
 title:          About Us
-description:    About Us
-permalink:      /about_us
+description:    About Us Description
+permalink:      /about_us/
 ---
 
 ## Welcome to GitHub Pages
