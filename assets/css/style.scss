@@ -21,6 +21,10 @@
     content: "";
     display: block;
   }
+  dd:after {
+    content: "";
+    display: block;
+  }
   dt, dd {
     display: inline;
   }
