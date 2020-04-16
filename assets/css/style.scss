@@ -18,13 +18,11 @@
 .site-footer {
   text-align: center;
   color:  #144894;
-  dt:before {
-    content: "";
-    display: block;
-  }
   dt, dd {
     display: inline;
+    text-align: left;
   }
+  dt { clear:both }
 }
 
 .nav-bar {
