@@ -15,9 +15,14 @@
   background-position-x: center;
 }
 
+@media screen and (min-width: 64em) {
+  .site-footer {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
 .site-footer {
-  display: flex;
-  justify-content: space-around;
   color:  #144894;
   dl {
     margin-top: 0;
