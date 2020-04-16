@@ -19,6 +19,10 @@
   .site-footer {
     display: flex;
     justify-content: space-around;
+    
+    .dd {
+      text-align: left;
+    }
   }
 }
 
@@ -29,9 +33,14 @@
   }
   dt, dd {
     display: inline;
+  }
+  dt {
+    clear: both;
     text-align: left;
   }
-  dt { clear:both }
+  dd {
+    text-align: right;
+  }
 }
 
 .nav-bar {
