@@ -12,14 +12,14 @@
   <body>
     <header class="page-header" role="banner">
     </header>
-    <nav class="page-header nav-bar">
-      <a href="." class="btn">Home</a>
-      <a href="services" class="btn">Services</a>
-      <a href="about_us" class="btn">About Us</a>
-      <a href="our_team" class="btn">Our Team</a>
-      <a href="contact_us" class="btn">Contact Us</a>
-    </nav>
     <main id="content" class="main-content" role="main">
+      <nav class="nav-bar">
+        <a href="." class="btn">Home</a>
+        <a href="services" class="btn">Services</a>
+        <a href="about_us" class="btn">About Us</a>
+        <a href="our_team" class="btn">Our Team</a>
+        <a href="contact_us" class="btn">Contact Us</a>
+      </nav>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {{ content }}
