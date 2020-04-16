@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 .page_header {
-  background-image: url('./images/logo_full.png')
+  background-image: url(./images/logo_full.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: center;
 }
 
 * {box-sizing: border-box;}
