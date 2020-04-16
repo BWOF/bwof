@@ -26,6 +26,10 @@
   dt { clear:both }
 }
 
+.site-footer:first-child {
+  margin-top: unset;
+}
+
 .nav-bar {
   color: #ffffff;
   text-align: center;
