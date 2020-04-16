@@ -16,11 +16,9 @@
 }
 
 .site-footer {
-  text-align: center;
+  display: flex;
+  justify-content: space-around;
   color:  #144894;
-  dl {
-    display: inline;
-  }
   dt, dd {
     display: inline;
     text-align: left;
