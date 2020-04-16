@@ -19,15 +19,14 @@
   display: flex;
   justify-content: space-around;
   color:  #144894;
+  dl {
+    margin-top: 0;
+  }
   dt, dd {
     display: inline;
     text-align: left;
   }
   dt { clear:both }
-}
-
-.site-footer:first-child {
-  margin-top: unset;
 }
 
 .nav-bar {
