@@ -16,12 +16,9 @@
 }
 
 .site-footer {
+  text-align: center;
   color:  #144894;
   dt:before {
-    content: "";
-    display: block;
-  }
-  dd:after {
     content: "";
     display: block;
   }
