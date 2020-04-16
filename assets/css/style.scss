@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page_header {
+  background-image: url('./images/logo_full.png')
+}
+
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
