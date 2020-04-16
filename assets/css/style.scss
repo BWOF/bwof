@@ -17,8 +17,12 @@
 
 .site-footer {
   color:  #144894;
-  dt, dd{
-    display:inline;
+  dt:before {
+    content: "";
+    display: block;
+  }
+  dt, dd {
+    display: inline;
   }
 }
 
