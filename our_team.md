@@ -7,7 +7,7 @@ permalink:      /our_team/
  
 Ravi Alwis
 Founder/Building compliance Consultant
-
+image{photo ravi}
 
 		
 
@@ -18,6 +18,10 @@ Founder/Building compliance Consultant
 
 
 
+
+
+Ravi is a highly experienced building compliance inspector and IQP. He annually completes over 1000 building inspections for commercial, body corporate, government, health, and public sector clients. Through his commitment to excellence, Ravi has established numerous professional relationships with local authorities in the Wellington region that facilitate the services provided to our clients.
+He is responsible for the smooth running of the company by proactively conducting inspections and continuously improving our inspection and testing methods to ensure the best service for your money.
 
 
 Qualifications
