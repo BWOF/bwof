@@ -5,7 +5,7 @@ description:    Services
 permalink:      /services/
 ---
 
-#*Our services*
+***Our services***''
 *Building warrant of fitness (BWOF)*
 BWOF Consultants Limited can assist all organisations that have Specified Systems installed in their buildings to provide an annual Building Warrant of Fitness to local Territorial Authorities as required by the Building Act.
 •	BWOF management and issuing the BWOF
