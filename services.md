@@ -4,31 +4,64 @@ title:          Services
 description:    Services
 permalink:      /services/
 ---
+Our services 
+Building warrant of fitness (BWOF)
+BWOF Consultants Limited can assist all organisations that have Specified Systems installed in their buildings to provide an annual Building Warrant of Fitness to local Territorial Authorities as required by the Building Act.
+•	BWOF management and issuing the BWOF
+•	Compliance schedule management
+•	Territorial Authority liaison
+•	12A certificate management 
+•	Regular client’s visits 
 
-## Welcome to GitHub Pages
+IQP Services
+We can conduct IQP inspections on the following Specified Systems- 
 
-You can use the [editor on GitHub](https://github.com/BWOF/bwof/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SS2   	Emergency warning systems 
+SS3/1	Automatic doors
+SS3/2	Access Controlled doors
+SS3/3	Interfaced fire or smoke doors or windows 
+SS4	Emergency lighting systems
+SS5	Escape route pressurisation systems
+SS 7	Automatic backflow protection connected to the potable water supply
+SS9	Mechanical ventilation and air conditioning systems
+SS11	Laboratory fume cupboards
+SS13/1	Mechanical Smoke control systems
+SS13/2	Natural Smoke control systems
+SS13/3	Smoke curtains
+SS14/2	Signs as required by Building Code for systems or features SS1-13
+SS15/2	Final exits
+SS15/5	Fire separations
+SS15/4	Signs for communication information to facilitate evacuation
+SS15/5	Smoke separation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Passive fire protection 
+•	Comprehensive passive fire protection surveys and reports.
+•	Construction monitoring.
+•	Remedial repair work monitoring.
+ 
+Mechanical Ventilation and Air Conditions Systems (HVAC Systems)
+•	Carry out annual audits.
+•	Reports.
+•	Issue a 12A for the building warrantor of fitness.
+•	Preparing preventive maintenance schemes.
+ 
+System Integration Tests (SIT)
+•	Fire alarm integration test and reporting on all specified systems.
+•	Construction monitoring.
+•	Reporting on specified systems behaviours during a trial evacuation.
 
-### Markdown
+Monthly Owners’ Inspections
+We can take care of your monthly “Owners” checks for the specified systems (SS14/2, SS15/2 -SS15/5) also known as ‘passive features’, and any other specified systems onsite that may require a monthly owner’s inspection.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Condition Assessment Reports 
+We can undertake condition assessments of all specified systems and provide you with a report.
 
-```markdown
-Syntax highlighted code block
+Building Compliance Consulting and site audits 
+We can be your agent and represent you to resolve Building compliance requirements with the relevant council (e.g. update compliance schedule).
 
-# Header 1
-## Header 2
-### Header 3
+We can also assist councils as an independent body in conducting site audits and verifying that the current compliance schedule reflects the systems in the building and the associated maintenance and reporting procedures.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
