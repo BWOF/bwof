@@ -8,7 +8,7 @@ permalink:      /our_team/
 
 **Founder/Building compliance Consultant**
 
-![Ravi Alvis](/images/ravi.jpg) Ravi is a highly experienced building compliance inspector and IQP. He annually completes over 1000 building inspections for commercial, body corporate, government, health, and public sector clients. Through his commitment to excellence, Ravi has established numerous professional relationships with local authorities in the Wellington region that facilitate the services provided to our clients.
+![Ravi Alwis](/images/ravi.jpg) Ravi is a highly experienced building compliance inspector and IQP. He annually completes over 1000 building inspections for commercial, body corporate, government, health, and public sector clients. Through his commitment to excellence, Ravi has established numerous professional relationships with local authorities in the Wellington region that facilitate the services provided to our clients.
 He is responsible for the smooth running of the company by proactively conducting inspections and continuously improving our inspection and testing methods to ensure the best service for your money.
 
 
@@ -66,4 +66,4 @@ Specialisations
 
 **Cofounder/Financial Controller**
 
-![Yuma Alvis](/images/yuma.jpg) Yuma is a Chartered Accountant with more than 15 years of experience in auditing, financial management, and New Zealand tax systems. Yuma is responsible for planning, implementation, and control of all financial activities in the company, including budgeting, forecasting, and negotiations. She believes in developing relationships with customers to serve their needs better, manage perceptions, deliver value, and identify opportunities to strengthen connections.
+![Yuma Alwis](/images/yuma.jpg) Yuma is a Chartered Accountant with more than 15 years of experience in auditing, financial management, and New Zealand tax systems. Yuma is responsible for planning, implementation, and control of all financial activities in the company, including budgeting, forecasting, and negotiations. She believes in developing relationships with customers to serve their needs better, manage perceptions, deliver value, and identify opportunities to strengthen connections.
