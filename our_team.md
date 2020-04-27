@@ -66,4 +66,4 @@ Specialisations
 
 **Cofounder/Financial Controller**
 
-![Yumantha Alvis](/images/yumantha.jpg) Yuma is a Chartered Accountant with more than 15 years of experience in auditing, financial management, and New Zealand tax systems.  Yuma is responsible for planning, implementation, and control of all financial activities in the company, including budgeting, forecasting, and negotiations. She believes in developing relationships with customers to serve their needs better, manage perceptions, deliver value, and identify opportunities to strengthen connections.
+![Yuma Alvis](/images/yuma.jpg) Yuma is a Chartered Accountant with more than 15 years of experience in auditing, financial management, and New Zealand tax systems. Yuma is responsible for planning, implementation, and control of all financial activities in the company, including budgeting, forecasting, and negotiations. She believes in developing relationships with customers to serve their needs better, manage perceptions, deliver value, and identify opportunities to strengthen connections.
