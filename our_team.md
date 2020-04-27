@@ -5,7 +5,8 @@ permalink:      /our_team/
 ---
  
 ## Ravi Alwis
-#### Founder/Building compliance Consultant
+
+**Founder/Building compliance Consultant**
 
 !image{photo ravi}
 
