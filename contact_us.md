@@ -5,39 +5,21 @@ description:    Contact Us
 permalink:      /contact_us/
 ---
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BWOF/bwof/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+ <dt>Ravi</dt>
+          <dd><a href="tel:0221992963">021 199 2963</a></dd>
+        </dl>
+        <dl>
+          <dt>Email</dt>
+          <dd><a href="mailto:ravi@bwofc.co.nz">ravi@bwofc.co.nz</a></dd>
+        </dl>
+        <dl>
+          <dt>Phone</dt>
+          <dd><a href="tel:042134963">04 213 4963</a></dd>
+- # Postal Address
+  146 Knights Road
+  Lower Hutt 5010
+  New Zealand.
+  
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BWOF/bwof/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
