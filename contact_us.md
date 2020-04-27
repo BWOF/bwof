@@ -15,7 +15,7 @@ permalink:      /contact_us/
         <dl>
           <dt>Phone</dt>
           <dd><a href="tel:042134963">04 213 4963</a></dd>
-- # Postal Address
+# Postal Address
   146 Knights Road
   Lower Hutt 5010
   New Zealand.
