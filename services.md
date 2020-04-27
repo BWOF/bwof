@@ -41,7 +41,7 @@ We can conduct IQP inspections on the following Specified Systems
 -	Comprehensive passive fire protection surveys and reports.
 -	Construction monitoring.
 -	Remedial repair work monitoring.
- 
+
 ## Mechanical Ventilation and Air Conditions Systems (HVAC Systems)
 
 -	Carry out annual audits.
