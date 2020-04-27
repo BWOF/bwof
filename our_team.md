@@ -7,8 +7,7 @@ permalink:      /our_team/
 ## Ravi Alwis
 
 **Founder/Building compliance Consultant**
-
-!image{photo ravi}
+![Ravi Alvis](/images/ravi.jpg)
 
 Ravi is a highly experienced building compliance inspector and IQP. He annually completes over 1000 building inspections for commercial, body corporate, government, health, and public sector clients. Through his commitment to excellence, Ravi has established numerous professional relationships with local authorities in the Wellington region that facilitate the services provided to our clients.
 He is responsible for the smooth running of the company by proactively conducting inspections and continuously improving our inspection and testing methods to ensure the best service for your money.
@@ -63,48 +62,10 @@ Specialisations
 •	Centerport
 •	Wellington Water 
 •	Ohakea Air Base
- 
 
+## Yuma Alwis
 
-Yuma Alwis
-Cofounder/Financial Controller
+**Cofounder/Financial Controller**
+![Yumantha Alvis](/images/yumantha.jpg)
+
 Yuma is a Chartered Accountant with more than 15 years of experience in auditing, financial management, and New Zealand tax systems.  Yuma is responsible for planning, implementation, and control of all financial activities in the company, including budgeting, forecasting, and negotiations. She believes in developing relationships with customers to serve their needs better, manage perceptions, deliver value, and identify opportunities to strengthen connections.
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BWOF/bwof/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BWOF/bwof/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
