@@ -5,7 +5,6 @@ permalink:      /services/
 ---
 
 ## Building warrant of fitness (BWOF)
-
 BWOF Consultants Limited can assist all organisations that have Specified Systems installed in their buildings to provide an annual Building Warrant of Fitness to local Territorial Authorities as required by the Building Act.
 
 -	BWOF management and issuing the BWOF
@@ -15,7 +14,6 @@ BWOF Consultants Limited can assist all organisations that have Specified System
 -	Regular client’s visits 
 
 ## IQP Services
-
 We can conduct IQP inspections on the following Specified Systems
 
 - SS2   	Emergency warning systems 
@@ -37,34 +35,28 @@ We can conduct IQP inspections on the following Specified Systems
 - SS15/5	Smoke separation
 
 ## Passive fire protection 
-
 -	Comprehensive passive fire protection surveys and reports.
 -	Construction monitoring.
 -	Remedial repair work monitoring.
 
 ## Mechanical Ventilation and Air Conditions Systems (HVAC Systems)
-
 -	Carry out annual audits.
 -	Reports.
 -	Issue a 12A for the building warrantor of fitness.
 -	Preparing preventive maintenance schemes.
  
 ## System Integration Tests (SIT)
-
 -	Fire alarm integration test and reporting on all specified systems.
 -	Construction monitoring.
 -	Reporting on specified systems behaviours during a trial evacuation.
 
 ## Monthly Owners’ Inspections
-
 We can take care of your monthly “Owners” checks for the specified systems (SS14/2, SS15/2 -SS15/5) also known as ‘passive features’, and any other specified systems onsite that may require a monthly owner’s inspection.
 
 ## Condition Assessment Reports 
-
 We can undertake condition assessments of all specified systems and provide you with a report.
 
 ## Building Compliance Consulting and site audits 
-
 We can be your agent and represent you to resolve Building compliance requirements with the relevant council (e.g. update compliance schedule).
 
 We can also assist councils as an independent body in conducting site audits and verifying that the current compliance schedule reflects the systems in the building and the associated maintenance and reporting procedures.
