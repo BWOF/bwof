@@ -4,6 +4,8 @@ title:          Our Services
 permalink:      /services/
 ---
 
+We provide peace of mind to building owners and property portfolio managers across the Lower North Island.
+
 ## Building warrant of fitness (BWOF)
 BWOF Consultants Limited can assist all organisations that have Specified Systems installed in their buildings to provide an annual Building Warrant of Fitness to local Territorial Authorities as required by the Building Act.
 
