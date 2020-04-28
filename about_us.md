@@ -17,3 +17,10 @@ Our vision is to take your building compliance to the next level. We proactively
 and continuously improve our inspection and testing methods to provide you with the best service
 and value for money. With our in-depth knowledge of the building act, excellent council
 relationships, and proactive practices, we will ensure that you receive your BWOF in no time.
+
+
+
+
+
+
+![Engnz logo](/images/eng NZ logo.jpg)          ![HCC logo](/images/HCClogo.png)      ![WCC logo](/images/WCC logo.jpg)
