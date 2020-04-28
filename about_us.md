@@ -23,4 +23,4 @@ relationships, and proactive practices, we will ensure that you receive your BWO
 
 
 
-![Engnz logo](/images/eng NZ logo.jpg)          ![HCC logo](/images/HCClogo.png)      ![WCC logo](/images/WCC logo.jpg)
+![Engnz logo](/images/eng NZ logo.jpg)          ![HCC logo](/images/HCClogo.png)      ![WCC logo](/images/WCC logo.png)
