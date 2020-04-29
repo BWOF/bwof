@@ -12,6 +12,8 @@ Phone: [04 213 4963](tel:042134963)
  
 ### Postal Address
 
+BWOF Consultants Ltd
+
 146 Knights Road
 
 Lower Hutt 5010
