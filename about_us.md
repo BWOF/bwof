@@ -18,9 +18,4 @@ and continuously improve our inspection and testing methods to provide you with 
 and value for money. With our in-depth knowledge of the building act, excellent council
 relationships, and proactive practices, we will ensure that you receive your BWOF in no time.
 
-
-
-
-
-
-![Engnz logo](/images/eng NZ logo.jpg)          ![HCC logo](/images/HCClogo.png)      ![WCC logo](/images/WCC logo.png)
+![Engnz logo](/images/eng NZ logo.jpg) | ![HCC logo](/images/HCClogo.png) ![WCC logo](/images/WCC logo.png)
