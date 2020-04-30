@@ -4,7 +4,7 @@ title:          Contact Us
 permalink:      /contact_us/
 ---
 
-Ravi: [022 199 2963](tel:0221992963)
+Ravi: [021 199 2963](tel:0211992963)
 
 Email: [ravi@bwofc.co.nz](mailto:ravi@bwofc.co.nz)
 
